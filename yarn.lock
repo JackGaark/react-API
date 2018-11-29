@@ -3178,6 +3178,10 @@ gh-pages@^1.1.0:
     graceful-fs "4.1.11"
     rimraf "^2.6.2"
 
+giphy-api@^1.2.7:
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/giphy-api/-/giphy-api-1.2.7.tgz#82bede451053675b1c98b6340711b789579a03bd"
+
 github-username@^4.0.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/github-username/-/github-username-4.1.0.tgz#cbe280041883206da4212ae9e4b5f169c30bf417"
